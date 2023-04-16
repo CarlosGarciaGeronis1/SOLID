@@ -1,0 +1,8 @@
+setup.py
+solid/__init__.py
+solid/message_printer.py
+solid/message_type.py
+solid.egg-info/PKG-INFO
+solid.egg-info/SOURCES.txt
+solid.egg-info/dependency_links.txt
+solid.egg-info/top_level.txt
